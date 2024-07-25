@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrumanNgo
 - 🎓 I graduated from Salem State University 
 - 🌱 I’m interested on developing Full Stack Applications
-- 📫 How to reach me @truman_ngo123@yahoo.com
+- 📫 If you would like to reach out to me, please refer to my LinkedIn account from my profile
 - ⚡ Fun fact: Video Games and Bowling
 
 <!---
